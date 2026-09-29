@@ -1,0 +1,14 @@
+DISPLAY NAME
+Phonlet AI
+
+HANDLE
+phonlet-ai
+
+TAGLINE
+Speech intelligence for edge devices.
+
+DESCRIPTION
+Lightweight, on-device speech tools. VAD, wake words, G2P, and phoneme models for edge devices.
+
+WEBSITE / EMAIL / LOCATION
+Leave blank until you have confirmed public details. No domain, email address, or additional social handle is assumed.
